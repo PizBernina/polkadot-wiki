@@ -26,7 +26,7 @@ transaction.
 
 ## Claiming Rewards
 
-Polkadot stores the last 84 eras of reward information (e.g. maps of era number to validator points,
+{{ polkadot: :polkadot }} {{ kusama: :kusama }} stores the last 84 eras of reward information (e.g. maps of era number to validator points,
 staking rewards, nomination exposure, etc.). Rewards will not be claimable more than 84 eras after
 they were earned. This means that all rewards must be claimed within a maximum of 84 eras, although
 under certain circumstances (described below) this may be as low as 28 eras.
